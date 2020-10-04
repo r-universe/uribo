@@ -1,5 +1,11 @@
 [
   {
+    "package": "packer",
+    "url": "https://github.com/JohnCoene/packer",
+    "via": ["textlintr"],
+    "from": "textlintr"
+  },
+  {
     "package": "sudachir",
     "url": "https://github.com/uribo/sudachir",
     "via": ["washoku"],
