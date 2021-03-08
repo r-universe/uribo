@@ -11,6 +11,10 @@
 	path = jpmesh
 	url = https://github.com/uribo/jpmesh
 	shallow = true
+[submodule "kuniezu"]
+	path = kuniezu
+	url = https://github.com/uribo/kuniezu
+	shallow = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
