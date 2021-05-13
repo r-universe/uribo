@@ -8,34 +8,28 @@
 	url = https://github.com/uribo/fgdr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/uribo/jpmesh
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sudachir"]
 	path = sudachir
 	url = https://github.com/uribo/sudachir
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/uribo/tabularmaps
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "zipangu"]
 	path = zipangu
 	url = https://github.com/uribo/zipangu
 	shallow = true
 	registered = true
-	oncran = true
