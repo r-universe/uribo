@@ -1,26 +1,14 @@
 [
   {
-    "package": "fgdr",
-    "oncran": true
+    "package": "jpops"
   },
   {
-    "package": "jpmesh",
-    "oncran": true
+    "package": "kuniezu"
   },
   {
-    "package": "ssrn",
-    "oncran": true
+    "package": "washoku"
   },
   {
-    "package": "sudachir",
-    "oncran": true
-  },
-  {
-    "package": "tabularmaps",
-    "oncran": true
-  },
-  {
-    "package": "zipangu",
-    "oncran": true
+    "package": "textlintr"
   }
 ]

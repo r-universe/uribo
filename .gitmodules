@@ -1,35 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/uribo/universe
 	shallow = true
 	branch = HEAD
-[submodule "fgdr"]
-	path = fgdr
-	url = https://github.com/uribo/fgdr
+[submodule "jpops"]
+	path = jpops
+	url = https://github.com/uribo/jpops
 	shallow = true
 	registered = true
-[submodule "jpmesh"]
-	path = jpmesh
-	url = https://github.com/uribo/jpmesh
+[submodule "kuniezu"]
+	path = kuniezu
+	url = https://github.com/uribo/kuniezu
 	shallow = true
 	registered = true
-[submodule "ssrn"]
-	path = ssrn
-	url = https://github.com/uribo/ssrn
+[submodule "washoku"]
+	path = washoku
+	url = https://github.com/uribo/washoku
 	shallow = true
 	registered = true
-[submodule "sudachir"]
-	path = sudachir
-	url = https://github.com/uribo/sudachir
-	shallow = true
-	registered = true
-[submodule "tabularmaps"]
-	path = tabularmaps
-	url = https://github.com/uribo/tabularmaps
-	shallow = true
-	registered = true
-[submodule "zipangu"]
-	path = zipangu
-	url = https://github.com/uribo/zipangu
+[submodule "textlintr"]
+	path = textlintr
+	url = https://github.com/uribo/textlintr
 	shallow = true
 	registered = true
