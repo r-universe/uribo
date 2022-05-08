@@ -3,6 +3,41 @@
 	url = https://github.com/uribo/universe
 	shallow = true
 	branch = HEAD
+[submodule "jpmesh"]
+	path = jpmesh
+	url = https://github.com/uribo/jpmesh
+	shallow = true
+	registered = true
+[submodule "fgdr"]
+	path = fgdr
+	url = https://github.com/uribo/fgdr
+	shallow = true
+	registered = true
+[submodule "zipangu"]
+	path = zipangu
+	url = https://github.com/uribo/zipangu
+	shallow = true
+	registered = true
+[submodule "ssrn"]
+	path = ssrn
+	url = https://github.com/uribo/ssrn
+	shallow = true
+	registered = true
+[submodule "sudachir"]
+	path = sudachir
+	url = https://github.com/uribo/sudachir
+	shallow = true
+	registered = true
+[submodule "tabularmaps"]
+	path = tabularmaps
+	url = https://github.com/uribo/tabularmaps
+	shallow = true
+	registered = true
+[submodule "jpndistrict"]
+	path = jpndistrict
+	url = https://github.com/uribo/jpndistrict
+	shallow = true
+	registered = true
 [submodule "jpops"]
 	path = jpops
 	url = https://github.com/uribo/jpops
@@ -26,10 +61,5 @@
 [submodule "packer"]
 	path = packer
 	url = https://github.com/JohnCoene/packer
-	shallow = true
-	registered = false
-[submodule "sudachir"]
-	path = sudachir
-	url = https://github.com/uribo/sudachir
 	shallow = true
 	registered = false

@@ -1,5 +1,32 @@
 [
   {
+    "package": "jpmesh",
+    "oncran": true
+  },
+  {
+    "package": "fgdr",
+    "oncran": true
+  },
+  {
+    "package": "zipangu",
+    "oncran": true
+  },
+  {
+    "package": "ssrn",
+    "oncran": true
+  },
+  {
+    "package": "sudachir",
+    "oncran": true
+  },
+  {
+    "package": "tabularmaps",
+    "oncran": true
+  },
+  {
+    "package": "jpndistrict"
+  },
+  {
     "package": "jpops"
   },
   {
