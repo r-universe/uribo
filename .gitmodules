@@ -63,6 +63,11 @@
 	url = https://github.com/uribo/textlintr
 	shallow = true
 	registered = true
+[submodule "emphatic"]
+	path = emphatic
+	url = https://github.com/coolbutuseless/emphatic
+	shallow = true
+	registered = false
 [submodule "packer"]
 	path = packer
 	url = https://github.com/JohnCoene/packer

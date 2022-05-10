@@ -1,5 +1,11 @@
 [
   {
+    "package": "emphatic",
+    "url": "https://github.com/coolbutuseless/emphatic",
+    "via": ["marble"],
+    "from": "marble"
+  },
+  {
     "package": "packer",
     "url": "https://github.com/JohnCoene/packer",
     "via": ["textlintr"],
