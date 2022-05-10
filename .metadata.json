@@ -20,6 +20,9 @@
     "oncran": true
   },
   {
+    "package": "marble"
+  },
+  {
     "package": "tabularmaps",
     "oncran": true
   },

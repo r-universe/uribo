@@ -28,6 +28,11 @@
 	url = https://github.com/uribo/sudachir
 	shallow = true
 	registered = true
+[submodule "marble"]
+	path = marble
+	url = https://github.com/uribo/marble
+	shallow = true
+	registered = true
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/uribo/tabularmaps
