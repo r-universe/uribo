@@ -1,5 +1,11 @@
 [
   {
+    "package": "emphatic",
+    "url": "https://github.com/coolbutuseless/emphatic",
+    "via": ["marble"],
+    "from": "marble"
+  },
+  {
     "package": "jpndistrict",
     "url": "https://github.com/uribo/jpndistrict",
     "via": ["kuniumi"],

@@ -8,6 +8,10 @@
 [submodule "easyestat"]
 	path = easyestat
 	url = https://github.com/uribo/easyestat
+[submodule "emphatic"]
+	path = emphatic
+	url = https://github.com/coolbutuseless/emphatic
+	registered = false
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/uribo/fgdr
