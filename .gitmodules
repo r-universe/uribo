@@ -33,6 +33,11 @@
 	url = https://github.com/uribo/marble
 	shallow = true
 	registered = true
+[submodule "colorinfo"]
+	path = colorinfo
+	url = https://github.com/uribo/colorinfo
+	shallow = true
+	registered = true
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/uribo/tabularmaps

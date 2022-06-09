@@ -23,6 +23,9 @@
     "package": "marble"
   },
   {
+    "package": "colorinfo"
+  },
+  {
     "package": "tabularmaps",
     "oncran": true
   },
