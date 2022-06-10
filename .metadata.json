@@ -26,6 +26,9 @@
     "package": "colorinfo"
   },
   {
+    "package": "suryulib"
+  },
+  {
     "package": "tabularmaps",
     "oncran": true
   },
