@@ -18,6 +18,11 @@
 	url = https://github.com/uribo/zipangu
 	shallow = true
 	registered = true
+[submodule "easyestat"]
+	path = easyestat
+	url = https://github.com/uribo/easyestat
+	shallow = true
+	registered = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
@@ -31,6 +36,11 @@
 [submodule "marble"]
 	path = marble
 	url = https://github.com/uribo/marble
+	shallow = true
+	registered = true
+[submodule "mjchar"]
+	path = mjchar
+	url = https://github.com/uribo/mjchar
 	shallow = true
 	registered = true
 [submodule "colorinfo"]

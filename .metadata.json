@@ -12,6 +12,9 @@
     "oncran": true
   },
   {
+    "package": "easyestat"
+  },
+  {
     "package": "ssrn",
     "oncran": true
   },
@@ -21,6 +24,9 @@
   },
   {
     "package": "marble"
+  },
+  {
+    "package": "mjchar"
   },
   {
     "package": "colorinfo"
