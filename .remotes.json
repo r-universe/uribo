@@ -6,6 +6,12 @@
     "from": "marble"
   },
   {
+    "package": "gibasa",
+    "url": "https://github.com/paithiov909/gibasa",
+    "via": ["suryulib"],
+    "from": "suryulib"
+  },
+  {
     "package": "packer",
     "url": "https://github.com/JohnCoene/packer",
     "via": ["textlintr"],
