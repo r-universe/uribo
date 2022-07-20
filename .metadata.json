@@ -15,6 +15,9 @@
     "package": "easyestat"
   },
   {
+    "package": "jmastats"
+  },
+  {
     "package": "ssrn",
     "oncran": true
   },

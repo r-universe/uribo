@@ -23,6 +23,11 @@
 	url = https://github.com/uribo/easyestat
 	shallow = true
 	registered = true
+[submodule "jmastats"]
+	path = jmastats
+	url = https://github.com/uribo/jmastats
+	shallow = true
+	registered = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
