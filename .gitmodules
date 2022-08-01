@@ -28,6 +28,11 @@
 	url = https://github.com/uribo/jmastats
 	shallow = true
 	registered = true
+[submodule "isbn"]
+	path = isbn
+	url = https://github.com/uribo/isbn
+	shallow = true
+	registered = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
