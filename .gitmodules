@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/uribo/uribo.r-universe.dev
 	branch = HEAD
+[submodule "RMeCab"]
+	path = RMeCab
+	url = https://github.com/IshidaMotohiro/RMeCab
+	registered = false
 [submodule "colorinfo"]
 	path = colorinfo
 	url = https://github.com/uribo/colorinfo

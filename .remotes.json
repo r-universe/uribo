@@ -1,5 +1,11 @@
 [
   {
+    "package": "RMeCab",
+    "url": "https://github.com/IshidaMotohiro/RMeCab",
+    "via": ["washoku"],
+    "from": "washoku"
+  },
+  {
     "package": "emphatic",
     "url": "https://github.com/coolbutuseless/emphatic",
     "via": ["marble"],
@@ -10,5 +16,11 @@
     "url": "https://github.com/uribo/jpndistrict",
     "via": ["kuniumi"],
     "from": "kuniumi"
+  },
+  {
+    "package": "sudachir",
+    "url": "https://github.com/uribo/sudachir",
+    "via": ["washoku"],
+    "from": "washoku"
   }
 ]
