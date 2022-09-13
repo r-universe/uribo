@@ -1,5 +1,11 @@
 [
   {
+    "package": "RMeCab",
+    "url": "https://github.com/IshidaMotohiro/RMeCab",
+    "via": ["washoku"],
+    "from": "washoku"
+  },
+  {
     "package": "emphatic",
     "url": "https://github.com/coolbutuseless/emphatic",
     "via": ["marble"],
