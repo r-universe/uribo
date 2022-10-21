@@ -46,6 +46,10 @@
 [submodule "mjchar"]
 	path = mjchar
 	url = https://github.com/uribo/mjchar
+[submodule "packer"]
+	path = packer
+	url = https://github.com/JohnCoene/packer
+	registered = false
 [submodule "ssdse"]
 	path = ssdse
 	url = https://github.com/uribo/ssdse
