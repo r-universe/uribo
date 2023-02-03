@@ -12,12 +12,6 @@
     "from": "marble"
   },
   {
-    "package": "gibasa",
-    "url": "https://github.com/paithiov909/gibasa",
-    "via": ["suryulib"],
-    "from": "suryulib"
-  },
-  {
     "package": "jpndistrict",
     "url": "https://github.com/uribo/jpndistrict",
     "via": ["kuniumi"],

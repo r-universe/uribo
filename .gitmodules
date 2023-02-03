@@ -113,11 +113,6 @@
 	url = https://github.com/coolbutuseless/emphatic
 	shallow = true
 	registered = false
-[submodule "gibasa"]
-	path = gibasa
-	url = https://github.com/paithiov909/gibasa
-	shallow = true
-	registered = false
 [submodule "packer"]
 	path = packer
 	url = https://github.com/JohnCoene/packer
