@@ -1,120 +1,76 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/uribo/universe
-	shallow = true
 	branch = HEAD
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/uribo/jpmesh
-	shallow = true
-	registered = true
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/uribo/fgdr
-	shallow = true
-	registered = true
 [submodule "zipangu"]
 	path = zipangu
 	url = https://github.com/uribo/zipangu
-	shallow = true
-	registered = true
 [submodule "easyestat"]
 	path = easyestat
 	url = https://github.com/uribo/easyestat
-	shallow = true
-	registered = true
 [submodule "jmastats"]
 	path = jmastats
 	url = https://github.com/uribo/jmastats
-	shallow = true
-	registered = true
 [submodule "ssdse"]
 	path = ssdse
 	url = https://github.com/uribo/ssdse
-	shallow = true
-	registered = true
 [submodule "kuniumi"]
 	path = kuniumi
 	url = https://github.com/uribo/kuniumi
-	shallow = true
-	registered = true
 [submodule "isbn"]
 	path = isbn
 	url = https://github.com/uribo/isbn
-	shallow = true
-	registered = true
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
-	shallow = true
-	registered = true
 [submodule "sudachir"]
 	path = sudachir
 	url = https://github.com/uribo/sudachir
-	shallow = true
-	registered = true
 [submodule "marble"]
 	path = marble
 	url = https://github.com/uribo/marble
-	shallow = true
-	registered = true
 [submodule "mjchar"]
 	path = mjchar
 	url = https://github.com/uribo/mjchar
-	shallow = true
-	registered = true
 [submodule "colorinfo"]
 	path = colorinfo
 	url = https://github.com/uribo/colorinfo
-	shallow = true
-	registered = true
 [submodule "suryulib"]
 	path = suryulib
 	url = https://github.com/uribo/suryulib
-	shallow = true
-	registered = true
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/uribo/tabularmaps
-	shallow = true
-	registered = true
 [submodule "jpndistrict"]
 	path = jpndistrict
 	url = https://github.com/uribo/jpndistrict
-	shallow = true
-	registered = true
 [submodule "jpops"]
 	path = jpops
 	url = https://github.com/uribo/jpops
-	shallow = true
-	registered = true
 [submodule "kuniezu"]
 	path = kuniezu
 	url = https://github.com/uribo/kuniezu
-	shallow = true
-	registered = true
 [submodule "washoku"]
 	path = washoku
 	url = https://github.com/uribo/washoku
-	shallow = true
-	registered = true
 [submodule "textlintr"]
 	path = textlintr
 	url = https://github.com/uribo/textlintr
-	shallow = true
-	registered = true
 [submodule "RMeCab"]
 	path = RMeCab
 	url = https://github.com/IshidaMotohiro/RMeCab
-	shallow = true
 	registered = false
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/coolbutuseless/emphatic
-	shallow = true
 	registered = false
 [submodule "packer"]
 	path = packer
 	url = https://github.com/JohnCoene/packer
-	shallow = true
 	registered = false
