@@ -2,51 +2,32 @@
 	path = .registry
 	url = https://github.com/uribo/universe
 	branch = HEAD
-[submodule "jpmesh"]
-	path = jpmesh
-	url = https://github.com/uribo/jpmesh
-[submodule "fgdr"]
-	path = fgdr
-	url = https://github.com/uribo/fgdr
-[submodule "zipangu"]
-	path = zipangu
-	url = https://github.com/uribo/zipangu
-[submodule "easyestat"]
-	path = easyestat
-	url = https://github.com/uribo/easyestat
-[submodule "jmastats"]
-	path = jmastats
-	url = https://github.com/uribo/jmastats
-[submodule "ssdse"]
-	path = ssdse
-	url = https://github.com/uribo/ssdse
-[submodule "kuniumi"]
-	path = kuniumi
-	url = https://github.com/uribo/kuniumi
-[submodule "isbn"]
-	path = isbn
-	url = https://github.com/uribo/isbn
-[submodule "ssrn"]
-	path = ssrn
-	url = https://github.com/uribo/ssrn
-[submodule "sudachir"]
-	path = sudachir
-	url = https://github.com/uribo/sudachir
-[submodule "marble"]
-	path = marble
-	url = https://github.com/uribo/marble
-[submodule "mjchar"]
-	path = mjchar
-	url = https://github.com/uribo/mjchar
+[submodule "RMeCab"]
+	path = RMeCab
+	url = https://github.com/IshidaMotohiro/RMeCab
+	registered = false
 [submodule "colorinfo"]
 	path = colorinfo
 	url = https://github.com/uribo/colorinfo
-[submodule "suryulib"]
-	path = suryulib
-	url = https://github.com/uribo/suryulib
-[submodule "tabularmaps"]
-	path = tabularmaps
-	url = https://github.com/uribo/tabularmaps
+[submodule "easyestat"]
+	path = easyestat
+	url = https://github.com/uribo/easyestat
+[submodule "emphatic"]
+	path = emphatic
+	url = https://github.com/coolbutuseless/emphatic
+	registered = false
+[submodule "fgdr"]
+	path = fgdr
+	url = https://github.com/uribo/fgdr
+[submodule "isbn"]
+	path = isbn
+	url = https://github.com/uribo/isbn
+[submodule "jmastats"]
+	path = jmastats
+	url = https://github.com/uribo/jmastats
+[submodule "jpmesh"]
+	path = jpmesh
+	url = https://github.com/uribo/jpmesh
 [submodule "jpndistrict"]
 	path = jpndistrict
 	url = https://github.com/uribo/jpndistrict
@@ -56,21 +37,40 @@
 [submodule "kuniezu"]
 	path = kuniezu
 	url = https://github.com/uribo/kuniezu
-[submodule "washoku"]
-	path = washoku
-	url = https://github.com/uribo/washoku
-[submodule "textlintr"]
-	path = textlintr
-	url = https://github.com/uribo/textlintr
-[submodule "RMeCab"]
-	path = RMeCab
-	url = https://github.com/IshidaMotohiro/RMeCab
-	registered = false
-[submodule "emphatic"]
-	path = emphatic
-	url = https://github.com/coolbutuseless/emphatic
-	registered = false
+[submodule "kuniumi"]
+	path = kuniumi
+	url = https://github.com/uribo/kuniumi
+[submodule "marble"]
+	path = marble
+	url = https://github.com/uribo/marble
+[submodule "mjchar"]
+	path = mjchar
+	url = https://github.com/uribo/mjchar
 [submodule "packer"]
 	path = packer
 	url = https://github.com/JohnCoene/packer
 	registered = false
+[submodule "ssdse"]
+	path = ssdse
+	url = https://github.com/uribo/ssdse
+[submodule "ssrn"]
+	path = ssrn
+	url = https://github.com/uribo/ssrn
+[submodule "sudachir"]
+	path = sudachir
+	url = https://github.com/uribo/sudachir
+[submodule "suryulib"]
+	path = suryulib
+	url = https://github.com/uribo/suryulib
+[submodule "tabularmaps"]
+	path = tabularmaps
+	url = https://github.com/uribo/tabularmaps
+[submodule "textlintr"]
+	path = textlintr
+	url = https://github.com/uribo/textlintr
+[submodule "washoku"]
+	path = washoku
+	url = https://github.com/uribo/washoku
+[submodule "zipangu"]
+	path = zipangu
+	url = https://github.com/uribo/zipangu
