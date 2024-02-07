@@ -2,14 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RMeCab"]
-	path = RMeCab
-	url = https://github.com/IshidaMotohiro/RMeCab
-	registered = false
-[submodule "emphatic"]
-	path = emphatic
-	url = https://github.com/coolbutuseless/emphatic
-	registered = false
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/uribo/fgdr
@@ -19,14 +11,6 @@
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/uribo/jpmesh
-[submodule "jpndistrict"]
-	path = jpndistrict
-	url = https://github.com/uribo/jpndistrict
-	registered = false
-[submodule "packer"]
-	path = packer
-	url = https://github.com/JohnCoene/packer
-	registered = false
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
