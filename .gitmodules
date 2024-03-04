@@ -1,25 +1,64 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/uribo/uribo.r-universe.dev
 	branch = HEAD
+[submodule "colorinfo"]
+	path = colorinfo
+	url = https://github.com/uribo/colorinfo
+[submodule "easyestat"]
+	path = easyestat
+	url = https://github.com/uribo/easyestat
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/uribo/fgdr
+[submodule "isbn"]
+	path = isbn
+	url = https://github.com/uribo/isbn
 [submodule "jmastats"]
 	path = jmastats
 	url = https://github.com/uribo/jmastats
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/uribo/jpmesh
+[submodule "jpndistrict"]
+	path = jpndistrict
+	url = https://github.com/uribo/jpndistrict
+[submodule "jpops"]
+	path = jpops
+	url = https://github.com/uribo/jpops
+[submodule "kuniezu"]
+	path = kuniezu
+	url = https://github.com/uribo/kuniezu
+[submodule "kuniumi"]
+	path = kuniumi
+	url = https://github.com/uribo/kuniumi
+[submodule "marble"]
+	path = marble
+	url = https://github.com/uribo/marble
+[submodule "mjchar"]
+	path = mjchar
+	url = https://github.com/uribo/mjchar
+[submodule "ssdse"]
+	path = ssdse
+	url = https://github.com/uribo/ssdse
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/uribo/ssrn
 [submodule "sudachir"]
 	path = sudachir
 	url = https://github.com/uribo/sudachir
+[submodule "suryulib"]
+	path = suryulib
+	url = https://github.com/uribo/suryulib
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/uribo/tabularmaps
+[submodule "textlintr"]
+	path = textlintr
+	url = https://github.com/uribo/textlintr
+[submodule "washoku"]
+	path = washoku
+	url = https://github.com/uribo/washoku
 [submodule "zipangu"]
 	path = zipangu
 	url = https://github.com/uribo/zipangu
