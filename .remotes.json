@@ -12,12 +12,6 @@
     "from": "marble"
   },
   {
-    "package": "jpndistrict",
-    "url": "https://github.com/uribo/jpndistrict",
-    "via": ["kuniumi"],
-    "from": "kuniumi"
-  },
-  {
     "package": "packer",
     "url": "https://github.com/JohnCoene/packer",
     "via": ["textlintr"],
