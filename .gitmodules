@@ -2,20 +2,12 @@
 	path = .registry
 	url = https://github.com/uribo/uribo.r-universe.dev
 	branch = HEAD
-[submodule "RMeCab"]
-	path = RMeCab
-	url = https://github.com/IshidaMotohiro/RMeCab
-	registered = false
 [submodule "colorinfo"]
 	path = colorinfo
 	url = https://github.com/uribo/colorinfo
 [submodule "easyestat"]
 	path = easyestat
 	url = https://github.com/uribo/easyestat
-[submodule "emphatic"]
-	path = emphatic
-	url = https://github.com/coolbutuseless/emphatic
-	registered = false
 [submodule "fgdr"]
 	path = fgdr
 	url = https://github.com/uribo/fgdr
@@ -46,10 +38,6 @@
 [submodule "mjchar"]
 	path = mjchar
 	url = https://github.com/uribo/mjchar
-[submodule "packer"]
-	path = packer
-	url = https://github.com/JohnCoene/packer
-	registered = false
 [submodule "ssdse"]
 	path = ssdse
 	url = https://github.com/uribo/ssdse
